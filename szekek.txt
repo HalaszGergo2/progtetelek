@@ -1,0 +1,4 @@
+Szin$Labszam
+Kék$13
+Piros$4
+Barna$5
